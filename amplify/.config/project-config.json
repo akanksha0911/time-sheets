@@ -1,0 +1,17 @@
+{
+  "projectName": "teamtimesheets",
+  "version": "3.1",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "react",
+    "config": {
+      "SourceDir": "src",
+      "DistributionDir": "dist",
+      "BuildCommand": "webpack --env=prod",
+      "StartCommand": "firebase emulators:start --only \"hosting,firestore\""
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}

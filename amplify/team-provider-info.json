@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-teamtimesheets-dev-162917-authRole",
+      "UnauthRoleArn": "arn:aws:iam::559976405953:role/amplify-teamtimesheets-dev-162917-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::559976405953:role/amplify-teamtimesheets-dev-162917-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-teamtimesheets-dev-162917-deployment",
+      "UnauthRoleName": "amplify-teamtimesheets-dev-162917-unauthRole",
+      "StackName": "amplify-teamtimesheets-dev-162917",
+      "StackId": "arn:aws:cloudformation:us-east-1:559976405953:stack/amplify-teamtimesheets-dev-162917/e515e7d0-5306-11ec-b458-0e80f24cff7f",
+      "AmplifyAppId": "da5m1sqcbryrk"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "da5m1sqcbryrk",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
